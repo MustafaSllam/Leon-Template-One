@@ -456,6 +456,9 @@ footer span {
         width: 100vw;
         overflow-x: hidden;
     }
+    .flexbox {
+        padding: 8px;
+    }
     nav div img {
         width: 19%;
         height: 4%;
